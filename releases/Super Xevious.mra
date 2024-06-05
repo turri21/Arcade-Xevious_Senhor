@@ -34,7 +34,7 @@
 		<dip bits="15"    name="Freeze"	ids="On,Off"/>
 	</switches>
 	<rom index="1"/>
-	<rom index="0" zip="xevious.zip|namco50.zip|namco51.zip|namco54.zip" type="merged" md5="none">
+	<rom index="0" zip="sxevious.zip|xevious.zip|namco50.zip|namco51.zip|namco54.zip" type="merged" md5="none">
 		<!-- main cpu -->
                 <part crc="1c8d27d5" name="cpu_3p.rom"/>
                 <part crc="fd04e615" name="cpu_3m.rom"/>
