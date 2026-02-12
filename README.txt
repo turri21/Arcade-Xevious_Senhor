@@ -1,7 +1,3 @@
--=(Xevious_Senhor notes)=-
-
-Tested: Working Video 720p, 1080p & Sound.
-
 ---------------------------------------------------------------------------------
 -- 
 -- Arcade: Xevious port to MiSTer by Sorgelig
